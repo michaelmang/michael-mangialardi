@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Michael Mangialardi",
-  description: "Classical Education & Technology",
+  description: "Classical Philosophy & Technology",
 };
 
 export default function RootLayout({ children }) {

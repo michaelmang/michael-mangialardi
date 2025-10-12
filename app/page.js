@@ -5,20 +5,21 @@ export default function Home() {
     <div className="font-mono flex flex-col items-center justify-center min-h-screen p-8 pb-20 sm:p-20">
       <div className="flex flex-col justify-center items-center my-8">
         <h1 className="text-4xl my-2">Michael Mangialardi</h1>
-        <h2 className="text-xl">Classical Education & Technology</h2>
+        <h2 className="text-xl">Classical Philosophy & Technology</h2>
       </div>
       <main className="flex flex-col max-w-3xl">
         <div className="flex flex-col my-4">
             <div className="flex flex-col mb-2">
               <div className="font-bold my-2">About</div>
               <div className="my-2">
-                I'm a Dean of Students and Teacher at a classical Christian school with 10 years of software engineering experience (3 years managing software development teams). I bridge classical education philosophy with modern technology, offering tutoring, consulting, and speaking on the intersection of timeless wisdom and contemporary challenges.
+                I'm a Dean of Students and Teacher of Logic and Theology at a classical Christian school with 10 years of software engineering experience (3 years managing software development teams). I bridge classical philosophy with modern technology, offering tutoring, consulting, and speaking on the intersection of timeless wisdom and contemporary challenges.
               </div>
             </div>
             <div className="flex flex-col">
               <div className="font-bold my-2">Credentials</div>
               <ul className="list-inside text-sm/6 text-center sm:text-left my-2">
                 <li>- Master of Studies in Classical Christian Studies (Davenant Hall, Spring 2026)</li>
+                <li>- Latin Studies via The Ancient Language Insitute</li>
                 <li>- B.S. Computer Science, Loras College</li>
               </ul>
             </div>
