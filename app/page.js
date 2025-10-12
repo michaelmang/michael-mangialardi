@@ -41,7 +41,7 @@ export default function Home() {
               <div className="my-2 font-bold">Speaking:</div>
               <ul className="list-inside text-sm/6 text-center sm:text-left">
                 <li>- Modernity and Technology</li>
-                <li>- AI and Medievel Philosophy</li>
+                <li>- AI and Medieval Philosophy</li>
                 <li>- Principled Leadership</li>
               </ul>
           </ul>
